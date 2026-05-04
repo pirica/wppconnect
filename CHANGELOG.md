@@ -1,3 +1,9 @@
+## 2.0.1 (2026-05-04)
+
+### Bug Fixes
+
+- tsconfig version to support spread operators natively and also fix the backendEvents ([#2764](https://github.com/wppconnect-team/wppconnect/issues/2764)) ([415926e](https://github.com/wppconnect-team/wppconnect/commit/415926e848c1717b91123debe9f6ce829b33280a))
+
 # 2.0.0 (2026-04-30)
 
 ### Features
